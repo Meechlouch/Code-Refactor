@@ -140,7 +140,17 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead, .benefit-brand, .benefit-cost {
+.benefit-lead {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -187,4 +197,4 @@ p {
 /*the footer heading font size*/
 .footer h2 {
     font-size: 20px;
-}
+} 
